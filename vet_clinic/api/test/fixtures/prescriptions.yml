@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vet_prescription: MyText
+  prescribed_by: MyText
+  disease: MyText
+  livestock: MyText
+  completed: false
+
+two:
+  vet_prescription: MyText
+  prescribed_by: MyText
+  disease: MyText
+  livestock: MyText
+  completed: false
